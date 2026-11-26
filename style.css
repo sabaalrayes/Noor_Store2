@@ -1,0 +1,88 @@
+/* تنسيق الصفحة بالكامل */
+body {
+    background-color: #FAF5ED;
+    color: #49352B;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+}
+
+/* تنسيق العناوين */
+h1, h2, h3 {
+    font-family: Tahoma, sans-serif;
+    color: #49352B;
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    padding: 15px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    padding: 15px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 18px;
+    margin: 0;
+    margin-top: 10px;
+}
+
+/* تنسيق الفقرات */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #49352B;
+}
+
+/* تنسيق الروابط */
+a {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #49352B;
+    padding: 10px;
+}
+
+/* تنسيق جدول المنتجات */
+table {
+    background-color: #DFCCB7;
+    border-color: #987658;
+    margin: auto;
+    margin-top: 20px;
+}
+
+td {
+    background-color: #FAF5ED;
+    border-color: #987658;
+    text-align: center;
+    padding: 15px;
+}
+
+/* تنسيق النماذج */
+form {
+    background-color: #DFCCB7;
+    text-align: center;
+    padding: 25px;
+    margin: 20px;
+}
+
+label {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #49352B;
+}
+
+input {
+    background-color: #FAF5ED;
+    color: #49352B;
+    border-color: #987658;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 8px;
+}
